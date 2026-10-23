@@ -1,1 +1,7 @@
-# -DSA-Lab-AY2026-27-SEA51
+Darshil Pandey
+SEA51
+ENTC-A
+BATCH C
+Data Structure and Algorithm 
+2026-27
+Varsha Degaonkar
